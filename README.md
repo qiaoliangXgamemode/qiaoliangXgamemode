@@ -1,5 +1,18 @@
-### Hi there 👋
+[![ZhouHu](https://github.com/qiaoliangXgamemode/qiaoliangXgamemode/bg.jpg)]()
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Bridge Grain
+</p>
 
+<p align='center'>
+  <img src="https://gitpor.cn/favicon.ico" width="16" height="16" style="border-radius: 100%;" />
+  <a href="https://gitpor.cn">Bolg</a>.
+  <img src="https://gitpor.cn/index/wyy.png" width="16" height="16" style="border-radius: 100%;" />
+  <a href="https://music.163.com/#/user/home?id=547979848">@_昼湖_</a>
+  <img src="https://gitpor.cn/index/bilibili.ico" width="16" height="16" style="border-radius: 1%;" />
+<a href="https://space.bilibili.com/382421755">@索木连坠</a>
+
+ </p>
 <!--
 **qiaoliangXgamemode/qiaoliangXgamemode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
