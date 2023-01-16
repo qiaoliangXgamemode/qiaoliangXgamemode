@@ -1,4 +1,4 @@
-[![ZhouHu](https://github.com/qiaoliangXgamemode/qiaoliangXgamemode/bg.jpg)]()
+[![ZhouHu](https://github.com/qiaoliangXgamemode/qiaoliangXgamemode/blob/main/bg.jpg?raw=true)]()
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Bridge Grain
