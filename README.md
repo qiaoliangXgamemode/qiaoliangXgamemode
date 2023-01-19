@@ -11,8 +11,10 @@ I'm Bridge Grain
   <a href="https://music.163.com/#/user/home?id=547979848">@_昼湖_</a>
   <img src="https://gitpor.cn/index/bilibili.ico" width="16" height="16" style="border-radius: 1%;" />
 <a href="https://space.bilibili.com/382421755">@索木连坠</a>
-
  </p>
+ <p>
+<a>不知不觉...又是春夏秋冬又是一年春节又是开学季又是毕业季，很焦虑，真的我太精神内耗了。</a>
+</p>
 <!--
 **qiaoliangXgamemode/qiaoliangXgamemode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
