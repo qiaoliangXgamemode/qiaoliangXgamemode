@@ -6,7 +6,7 @@ I'm Bridge Grain
 
 <p align='center'>
   <img src="https://gitpor.cn/favicon.ico" width="16" height="16" style="border-radius: 100%;" />
-  <a href="https://gitpor.cn">Bolg</a>.
+  <a href="https://gitpor.cn">ZhouHu's Bolg</a>.
   <img src="https://gitpor.cn/index/wyy.png" width="16" height="16" style="border-radius: 100%;" />
   <a href="https://music.163.com/#/user/home?id=547979848">@_昼湖_</a>
   <img src="https://gitpor.cn/index/bilibili.ico" width="16" height="16" style="border-radius: 1%;" />
