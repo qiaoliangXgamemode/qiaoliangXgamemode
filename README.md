@@ -13,7 +13,7 @@ I'm Bridge Grain
 <a href="https://space.bilibili.com/382421755">@索木连坠</a>
  </p>
  <p>
-<a>不知不觉...又是春夏秋冬又是一年春节又是开学季又是毕业季，很焦虑，真的我太精神内耗了。</a>
+<a>努力成为所想成为的人，不断寻求去超越巨人，这不仅是勤学好问，还要考虑到实操能力，思维逆向。</a>
 </p>
 <!--
 **qiaoliangXgamemode/qiaoliangXgamemode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
