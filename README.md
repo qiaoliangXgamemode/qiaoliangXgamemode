@@ -17,7 +17,7 @@ I'm Bridge Grain
 </p>
 
 
-![Doracoin's-github-stats](https://github-readme-stats.vercel.app/api?username=qiaoliangXgamemoden&&show_icons=true)
+![Doracoin's-github-stats](https://github-readme-stats.vercel.app/api?username=qiaoliangXgamemode&&show_icons=true)
 <!--
 **qiaoliangXgamemode/qiaoliangXgamemode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
