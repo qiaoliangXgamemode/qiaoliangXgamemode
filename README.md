@@ -15,6 +15,9 @@ I'm Bridge Grain
  <p>
 <a>努力成为所想成为的人，不断寻求去超越巨人，这不仅是勤学好问，还要考虑到实操能力，思维逆向。</a>
 </p>
+
+
+![Doracoin's-github-stats](https://github-readme-stats.vercel.app/api?username=qiaoliangXgamemoden&&show_icons=true)
 <!--
 **qiaoliangXgamemode/qiaoliangXgamemode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
