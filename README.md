@@ -5,7 +5,7 @@ I'm Bridge Grain   :wave:
 </p>
 
 
- <p  align='center'>行影迷踪，医学并不能救活所有人，起码把自己先救活了。<br>  Travel fans, medicine can not save everyone, at least to save their own first.</p>
+ <p  align='center'>行影迷踪，医学并不能救活所有人，起码把自己先救活了。<br>  Travel fans, medicine can not save everyone, at least to save their own first. <br> ps：主播别老是掖着藏着大招</p>
 
 <p align='center'>
   <img src="https://gitpor.cn/favicon.ico" width="16" height="16" style="border-radius: 100%;" />
