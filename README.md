@@ -1,5 +1,5 @@
 
-  <img src="https://github.com/qiaoliangXgamemode/qiaoliangXgamemode/blob/main/bg.jpg?raw=true" width="100%" height="100%" style="border-radius: 100%;" />
+  <img src="https://github.com/qiaoliangXgamemode/qiaoliangXgamemode/blob/main/usingUser._1024jpg.jpg?raw=true" width="100%" height="100%" style="border-radius: 100%;" />
 <h1 align='center'> Introduce</h1>
 <p align='center'>
 I'm Bridge Grain   :wave:
