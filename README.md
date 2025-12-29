@@ -12,7 +12,7 @@ I'm Bridge Grain   :wave:
   <img src="https://gitpor.cn/favicon.ico" width="16" height="16" style="border-radius: 100%;" />
   <a href="https://gitpor.cn">ZhouHu's Bolg</a>.
   <img src="https://blog.gitpor.cn/resolveCON/wyy.png" width="16" height="16" style="border-radius: 100%;" />
-  <a href="https://music.163.com/#/user/home?id=547979848">@_昼湖_</a>
+  <a href="https://www.zhihu.com/people/qiao-liang-31-47">@不是昼湖呀</a>
   <img src="https://blog.gitpor.cn/index/bilibili.ico" width="16" height="16" style="border-radius: 1%;" />
 <a href="https://space.bilibili.com/382421755">@索木连坠</a>
  </p>
